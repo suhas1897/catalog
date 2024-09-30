@@ -1,0 +1,5 @@
+output for for first and second : 
+1. 
+The constant term 'c' of the polynomial is: 28735619723864
+2. 
+The constant term 'c' of the polynomial is: 3
